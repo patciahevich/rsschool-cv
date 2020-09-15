@@ -4,6 +4,7 @@
 *goal*: Software developer  
 *summary*: Extremely motivated for career change goal. Ready to learn new things  
 *skills*: beginer in HTML, CSS, JS  
+
 *sample code*: 
 
     const reverse = (str) => {
