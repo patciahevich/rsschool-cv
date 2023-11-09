@@ -56,6 +56,16 @@ main {
     align-items: center;
 }
 
+.nav_link img {
+    width: 25px;
+    height: 25px;
+}
+
+.location {
+    width: 20px;
+    height: 20px;
+}
+
 .skills {
     width: 300px;
 }
