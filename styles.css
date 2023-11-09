@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: all 1s;
+}
+
+a:hover {
+    text-decoration: underline;
+    
+    cursor: pointer;
+}
+
+
+.wrapper {
+    margin: 0 auto;
+    width: 1200px;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.main {
+    display: flex;
+    gap: 50px;
+}
+
+.nav_link {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
