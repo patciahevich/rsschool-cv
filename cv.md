@@ -2,31 +2,41 @@
 
 ** future frontend developer **
 
-Minsk, Belarus
-Contacts
-zaprudskaya@gmail.com
+* Minsk, Belarus *
+
+### Contacts
+** E-mail: ** zaprudskaya@gmail.com
+** Telegram: ** @patsiahevich
+"" GitHub: ** patciahevich
+[linkedIn](https://www.linkedin.com/in/volha-patciahevich-43b459214)
 
 ### About Me
-I am 30 years old. My specialty is medicine. I had studied at the university for 7 years and worked as a doctor during 2 years. 
-In general, I gave medicine 9 years of my life. It was hard and wonderful time. I acquired many useful skills. 
-And I hope they will help me in my future profession.
+My age is thirty-one. Medical is my initial area of expertise. I completed my seven years of academic education and spent the next two years working as an outpatient clinic director and general doctor.  It was a great, challenging moment.  But I came to the realization that it is not my calling. And I began to consider switching careers. 
+
+For the next three years, I took care of my child. And that's when I started attempting to learn JS on my own.
+
+I think my age is a benefit that will help me launch a new profession rather than a drawback. And my expertise will support my future professional move.
 
 ### Skills
-HTML-5
-CSS
-JS basics
-Git and GitHub
-Figma for web development
+- HTML-5
+- CSS
+- JS basics
+- Git and GitHub
+- Figma for web development
+
 ### Current Courses
-RS School JS/Frontend Stage 0
+- RS School JS/Frontend Stage 0 - 2023 (Completed with certificate)
+- RS School JavaScript/Front-end 2023Q4 (in progress)
+
 ### Soft Skills
-Emotional Intelligence
-Patience
-Critical Thinking
-Time Management
-Teamwork
-Accountability
+- Emotional Intelligence
+- Patience
+- Critical Thinking
+- Time Management
+- Teamwork
+- Accountability
+
 ### Language
-English A2 (B1 in progress)
-Russian (native)
-Belarussian (native)
+- English A2+ (B1 in progress)
+- Russian (native)
+- Belarussian (native)
