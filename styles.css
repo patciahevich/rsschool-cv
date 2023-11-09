@@ -17,7 +17,7 @@ a:hover {
 
 .wrapper {
     margin: 0 auto;
-    width: 1200px;
+    width: 1000px;
 
     display: flex;
     flex-direction: column;
@@ -25,15 +25,17 @@ a:hover {
 }
 
 header {
+    margin-top: 20px;
     display: flex;
-    flex-direction: row;
     gap: 50px;
 }
 
-.main {
+
+main {
     display: flex;
     gap: 50px;
 }
+
 
 .nav_link {
     display: flex;
