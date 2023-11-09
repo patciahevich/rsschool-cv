@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: all 1s;
+}
+
+pre {
+    color: brown;
+    background-color: rgb(246, 240, 233);
+}
+
+a:hover {
+    text-decoration: underline;
+    
+    cursor: pointer;
+}
+
+h4 {
+    font-weight: 800;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+header {
+    margin-top: 20px;
+    display: flex;
+    gap: 50px;
+}
+
+
+main {
+    display: flex;
+    gap: 50px;
+}
+
+
+.nav_link {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.nav_link img {
+    width: 25px;
+    height: 25px;
+}
+
+.location {
+    width: 20px;
+    height: 20px;
+}
+
+.skills {
+    width: 300px;
+}
+
+@media screen and (width < 1200px) {
+    .wrapper {
+        width: 100%;
+        padding: 0 50px;
+    }
+    
+}
+
+@media  screen and (width < 1002px) {
+    main {
+        flex-direction: column;
+    }
+    
+}
+
+@media screen and (width < 780px) {
+    header {
+        flex-direction: column-reverse;
+        position: relative;
+    }
+
+    .avatar {
+        position: absolute;
+        right: 0;
+        top: 85px;
+
+        width: 200px;
+        height: 200px;
+    }
+
+    pre {
+        margin-left: -100px;
+    }
+    
+}
+
+@media screen and (width < 610px) {
+    pre {
+        margin-left: -150px;
+    }
+}
