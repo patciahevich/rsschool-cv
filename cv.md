@@ -1,13 +1,16 @@
 # Volha Patciahevich
 
-** future frontend developer **
+**future frontend developer**
 
-* Minsk, Belarus *
+*Minsk, Belarus*
 
 ### Contacts
-** E-mail: ** zaprudskaya@gmail.com
-** Telegram: ** @patsiahevich
-"" GitHub: ** patciahevich
+**E-mail:** zaprudskaya@gmail.com
+
+**Telegram:** @patsiahevich
+
+**GitHub:** patciahevich
+
 [linkedIn](https://www.linkedin.com/in/volha-patciahevich-43b459214)
 
 ### About Me
@@ -25,7 +28,7 @@ I think my age is a benefit that will help me launch a new profession rather tha
 - Figma for web development
 
 ### Current Courses
-- RS School JS/Frontend Stage 0 - 2023 (Completed with certificate)
+- RS School JS/FE Pre-School 2023Q2 (Completed with certificate)
 - RS School JavaScript/Front-end 2023Q4 (in progress)
 
 ### Soft Skills
