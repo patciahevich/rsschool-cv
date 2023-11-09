@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: 'Comfortaa', sans-serif;
 }
 
 a {
@@ -12,6 +13,10 @@ a:hover {
     text-decoration: underline;
     
     cursor: pointer;
+}
+
+h4 {
+    font-weight: 800;
 }
 
 
