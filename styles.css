@@ -9,6 +9,11 @@ a {
     transition: all 1s;
 }
 
+pre {
+    color: brown;
+    background-color: rgb(246, 240, 233);
+}
+
 a:hover {
     text-decoration: underline;
     
@@ -19,7 +24,10 @@ h4 {
     font-weight: 800;
 }
 
-
+.avatar {
+    width: 300px;
+    height: 300px;
+}
 .wrapper {
     margin: 0 auto;
     width: 1000px;
@@ -50,4 +58,46 @@ main {
 
 .skills {
     width: 300px;
+}
+
+@media screen and (width < 1200px) {
+    .wrapper {
+        width: 100%;
+        padding: 0 50px;
+    }
+    
+}
+
+@media  screen and (width < 1002px) {
+    main {
+        flex-direction: column;
+    }
+    
+}
+
+@media screen and (width < 780px) {
+    header {
+        flex-direction: column-reverse;
+        position: relative;
+    }
+
+    .avatar {
+        position: absolute;
+        right: 0;
+        top: 85px;
+
+        width: 200px;
+        height: 200px;
+    }
+
+    pre {
+        margin-left: -100px;
+    }
+    
+}
+
+@media screen and (width < 610px) {
+    pre {
+        margin-left: -150px;
+    }
 }
